@@ -11,7 +11,7 @@
 	<groupId>com.gateway.service</groupId>
 	<artifactId>gateway-service</artifactId>
 	<version>1.0</version>
-	<name>getway-service</name>
+	<name>gateway-service</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
